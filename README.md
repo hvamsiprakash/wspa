@@ -3,7 +3,7 @@
 
 An AI-powered dashboard for wind energy analysis, turbine performance simulation, and wind speed forecasting.
 
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://usxtmpzozcrxezyfavzhcc.streamlit.app/)
 ## 🚀 Features
 
 - **Real-time Wind Analysis**
@@ -32,4 +32,3 @@ import numpy  # Numerical calculations
 from windrose import WindroseAxes  # Wind direction plots
 
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://usxtmpzozcrxezyfavzhcc.streamlit.app/)
